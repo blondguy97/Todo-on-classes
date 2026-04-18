@@ -11,6 +11,10 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding: 10px;
     background: #2A7B9B;
     background: linear-gradient(180deg, rgb(0 154 215) 17%, rgba(87, 199, 133, 1) 62%, rgb(0 255 1) 100%);
